@@ -1,0 +1,7 @@
+@use "../util/variables" as *;
+body {
+  display: flex;
+  padding: $padding;
+  background-color: $color;
+  color: $red;
+}
